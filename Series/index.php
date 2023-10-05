@@ -1,5 +1,7 @@
 <?php
+//addinng strict types
 declare(strict_types=1);
+
 function slices(string $series, int $size) : array{
   $seriesLength = strlen($series);
   
