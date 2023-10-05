@@ -9,4 +9,5 @@ function isArmstrongNumber(int $number): bool{
   
 }
 
+//test to know the type of the return value
 var_dump(isArmStrongNumber(154));
